@@ -12,4 +12,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📬 Contact
-- [![Discord](https://dsc-readme.tsuni.dev/api/user/969598799657971754)](https://discord.com/users/969598799657971754)
+[![Discord](https://dsc-readme.tsuni.dev/api/user/969598799657971754)](https://discord.com/users/969598799657971754)
