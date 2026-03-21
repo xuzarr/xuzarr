@@ -10,4 +10,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📬 Contact
-- Discord: discord.com/users/xuzarr
+- [Discord]: (https://discord.com/users/xuzarr)
