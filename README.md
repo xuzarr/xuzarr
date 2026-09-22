@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm xuzar 👋</h1>
+<h1 align="center">Hey, I'm sami 👋</h1>
 
 ### About me
 
